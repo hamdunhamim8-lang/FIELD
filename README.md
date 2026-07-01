@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 JOB APPLICATION TRACKING SYSTEM
 
@@ -26,3 +27,6 @@ Access the admin dashboard by:
  Username: `admin`
  Password: `admin123`
 
+=======
+# FIELD
+>>>>>>> 36726e81efaf6b93b262a19c9d10772469ae1c3f
